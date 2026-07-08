@@ -183,7 +183,7 @@ Detailed project documentation is available in the Document folder and includes:
 
 **Vinay Raj Peyyala**
 
-Aspiring Data Scientist | Machine Learning Enthusiast
+Data Scientist | Machine Learning | Data engineer | Agentic AI | Gen AI
 
 GitHub: https://github.com/vinay-raj-2452
 
@@ -194,7 +194,3 @@ GitHub: https://github.com/vinay-raj-2452
 If you found this project helpful, consider giving it a **Star ⭐** on GitHub. Your support is greatly appreciated.
 
 ---
-
-# 📜 License
-
-This project is licensed under the **MIT License**.
